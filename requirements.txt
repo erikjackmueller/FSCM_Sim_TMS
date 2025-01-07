@@ -1,0 +1,8 @@
+fmm3dpy==1.0.0
+h5py==3.8.0
+matplotlib==3.7.0
+meshio==5.3.4
+numba==0.56.4
+numpy==1.23.5
+pynibs==0.2023.3
+scipy==1.10.1
